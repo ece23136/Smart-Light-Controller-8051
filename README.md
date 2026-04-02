@@ -5,7 +5,7 @@
 
 ## 🎥 Project Demo
 
-[![Watch Demo](prototype.jpeg)](Demo_Video.mp4)
+[![Watch Demo](Demo.jpeg)](Demo_Video.mp4)
 
 ---
 
@@ -204,8 +204,16 @@ B.Tech ECE | Embedded Systems & VLSI
 
 ## ⭐ Support
 
+
+
 If you found this useful:
 
 - ⭐ Star the repository  
 - 🍴 Fork it  
-- 🤝 Contribute  
+- 🤝 Contribute
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
