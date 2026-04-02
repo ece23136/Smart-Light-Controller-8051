@@ -118,9 +118,10 @@ The microcontroller continuously monitors ambient light levels and controls a **
 
 ⚠️ **WARNING: Handle with extreme caution**
 
-- Live (Phase) → Relay COM  
-- Relay NO → Bulb  
-- Neutral → Direct to Bulb  
+- Live (Green) Cut in the middle
+- From plug part → Relay COMMON Terminal
+- Relay NORMALLY OPEN TERMINAL → towards Bulb part 
+- Neutral → Keep as it is 
 
 ---
 
