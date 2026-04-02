@@ -5,7 +5,7 @@
 
 ## 🎥 Project Demo
 
-[![Watch Demo](Main_prototype.jpeg)](Demo_Video.mp4)
+[![Watch Demo](prototype.jpeg)](Demo_Video.mp4)
 
 ---
 
@@ -46,7 +46,7 @@ The microcontroller continuously monitors ambient light levels and controls a **
 ## 📸 Project Images
 
 ### 🔹 Final Prototype
-![Prototype](Main_prototype.jpeg)
+![Prototype](prototype.jpeg)
 
 ### 🔹 8051 Development Board
 ![8051 Board](8051.jpeg)
