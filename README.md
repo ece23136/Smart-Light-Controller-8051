@@ -5,7 +5,7 @@
 
 ## 🎥 Project Demo
 
-[![Watch Demo](Main prototype.jpeg)](Demo_Video.mp4)
+[![Watch Demo](Main_prototype.jpeg)](Demo_Video.mp4)
 
 ---
 
@@ -46,16 +46,16 @@ The microcontroller continuously monitors ambient light levels and controls a **
 ## 📸 Project Images
 
 ### 🔹 Final Prototype
-![Prototype](Main prototype.jpeg)
+![Prototype](Main_prototype.jpeg)
 
 ### 🔹 8051 Development Board
 ![8051 Board](8051.jpeg)
 
 ### 🔹 LDR Sensor Setup
-![LDR Setup](LDR setup.jpeg)
+![LDR Setup](LDR_setup.jpeg)
 
 ### 🔹 Relay Module
-![Relay](5v relay.jpeg)
+![Relay](5v_relay.jpeg)
 
 ### 🔹 Power Adapter
 ![Adapter](adapter.jpeg)
